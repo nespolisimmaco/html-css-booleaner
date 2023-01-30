@@ -1,3 +1,11 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 /* HEADER */
 .main-header{
     background-color:cornflowerblue;
@@ -9,4 +17,34 @@
 #booleaner-logo{
     height: 50px;
     margin-top: 40px;
+}
+
+/* MAIN */
+.main-container{
+    padding: 5px;
+}
+
+#main-title{
+    margin-top: 15px;
+}
+
+#link{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+
+.grey-text{
+    color: gray;
+}
+
+.container{
+    margin: 20px 0 20px 0;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.container.list{
+    padding-left: 10px;
 }
