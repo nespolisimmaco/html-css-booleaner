@@ -1,0 +1,12 @@
+/* HEADER */
+.main-header{
+    background-color:cornflowerblue;
+    height: 100px;
+    background-image:url(../img/pattern.png);
+    background-size: contain;
+}
+
+#booleaner-logo{
+    height: 50px;
+    margin-top: 40px;
+}
